@@ -96,10 +96,10 @@ Fluent in English and Russian, learning Dutch and Chinese
 ### **Let's get to know each other!**
 ---
 
-[<img src="assets/gmail.svg" width="30" height="30"/>](ivan.shishkalov.nt@gmail.com)
+<a href = "mailto:ivan.shishkalov.nt@gmail.com"><img src="assets/gmail.svg" width="30" height="30"/></a>
 [<img src="assets/linkedin.svg" width="30" height="30"/>](https://www.linkedin.com/in/ivanshishkalov)
 [<img src="assets/instagram.svg" width="30" height="30"/>](https://www.instagram.com/4amny)
-[<img src="assets/discord.svg" width="30" height="30"/>](https://discordapp.com/users/486535102281547787)
+<img src="assets/discord.svg" width="30" height="30"/> > nominal_trajectory#4906
 
 
 
