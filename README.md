@@ -77,7 +77,7 @@ Fluent in English and Russian, learning Dutch and Chinese
 ### 🚧 **Current projects**
 ---
 
-- **Magic Word Chains** *(WIP)* Check out my [***Android***](https://play.google.com/store/apps/details?id=com.NTGames.WordChains) / [***iOS***](https://apps.apple.com/us/app/magic-word-chains/id1559186496) game "Magic Word Chains" - a fairy-tale styled rework of the classic word ladder game. I'm building this game using Unity.
+- **Magic Word Chains** *(WIP)* Check out my <a href="https://play.google.com/store/apps/details?id=com.NTGames.WordChains" target="_blank">***Android***</a> / <a href="https://apps.apple.com/us/app/magic-word-chains/id1559186496" target="_blank">***iOS***</a> game "Magic Word Chains" - a fairy-tale styled rework of the classic word ladder game. I'm building this game using Unity.
 - ... 
 
 </br>
@@ -101,7 +101,9 @@ Fluent in English and Russian, learning Dutch and Chinese
 [<img src="assets/instagram.svg" width="30" height="30"/>](https://www.instagram.com/4amny)
 <img src="assets/discord.svg" width="30" height="30"/> > nominal_trajectory#4906
 
+👀 count
 
+![Visitor Count](https://profile-counter.glitch.me/NominalTrajectory/count.svg)
 
 </br>
 <small>
