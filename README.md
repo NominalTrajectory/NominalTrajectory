@@ -1,9 +1,11 @@
 # Hi / Привет / Hoi / 你好 everyone!
-<!-- <p>
-<img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="100" height="100"/>
-<img src="https://media.giphy.com/media/NE353aasvIpC7u6aHv/giphy.gif" width="100" height="100"/>
-<img src="https://media.giphy.com/media/l0CRCmMBYQbL7dCmI/giphy.gif?cid=ecf05e4711sdkxqj84bkjt2eqz8kx7h7dsxcvmfjllzdjzrj&rid=giphy.gif&ct=g" width="100" height="100"/>
-</p> -->
+<p>
+<img src="https://c.tenor.com/7jxBmMxOixgAAAAC/altered-carbon-pink.gif" width="120" height="60"/>
+<img src="assets/Secundo.gif" width="60" height="60"/>
+<img src="https://c.tenor.com/kpZ45ilBpNMAAAAC/zdj11.gif" width="120" height="60"/>
+<img src="assets/Divergent.gif" width="60" height="60"/>
+<img src="https://c.tenor.com/8swF6PtOPfgAAAAC/scan-altered-carbon.gif" width="120" height="60"/>
+</p>
 
 I'm Ivan, an infrastructure/cloud engineer and software developer in my final year of bachelor's study, currently based in the Netherlands. Eager self-learner inspired by emerging tech and sci-fi stuff 😃 
 
