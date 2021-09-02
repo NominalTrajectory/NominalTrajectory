@@ -113,5 +113,3 @@ To be implemented in this README:
 
 - Display my latest instagram posts
 </small>
-
-<p style="color: red;">TEST</p>
