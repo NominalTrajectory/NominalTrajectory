@@ -108,8 +108,6 @@ Fluent in English and Russian, learning Dutch and Chinese
 ![Visitor Count](https://profile-counter.glitch.me/NominalTrajectory/count.svg)
 
 </br>
-<small>
-To be implemented in this README:
 
-- Display my latest instagram posts
-</small>
+[<img src="https://nasa-apod-badge.herokuapp.com" alt="NASA's Astronomy Picture of the Day" width="400" />](https://apod.nasa.gov/apod/astropix.html)
+
