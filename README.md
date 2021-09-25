@@ -33,14 +33,14 @@ Fluent in English and Russian, learning Dutch and Chinese
 **Code:**
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="35" height="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="35" height="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="35" height="35" />
-<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="35" height="35" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="35" height="35" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/bash/bash-original.svg" alt="Bash" width="35" height="35" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="35" height="35" />
-<img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" alt="Electron" width="35" height="35" />
+<a href="https://en.wikipedia.org/wiki/Node.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="35" height="35"/></a>
+<a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="35" height="35"/></a>
+<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="35" height="35" /></a>
+<a href="https://en.wikipedia.org/wiki/TypeScript"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="35" height="35" /></a>
+<a href="https://en.wikipedia.org/wiki/Go_(programming_language)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="35" height="35" /></a>
+<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/bash/bash-original.svg" alt="Bash" width="35" height="35" /></a>
+<a href="https://en.wikipedia.org/wiki/Angular_(web_framework)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="35" height="35" /></a>
+<a href="https://en.wikipedia.org/wiki/Electron_(software_framework)"><img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" alt="Electron" width="35" height="35" /></a>
 </p>
 
 </br></br>
@@ -48,15 +48,15 @@ Fluent in English and Russian, learning Dutch and Chinese
 **Infra & DevOps:**
 
 <p>
-<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="35" height="35"/>
-<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="35" height="35"/>
-<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="35" height="35"/>
-<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="35" height="35"/>
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="35" height="35"/>
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="35" height="35"/>
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="35" height="35"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="35" height="35"/>
-<img src="https://www.vectorlogo.zone/logos/servicenow/servicenow-ar21.svg" alt="ServiceNow" width="70" height="35"/>
+<a href="https://en.wikipedia.org/wiki/Linux"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="35" height="35"/></a>
+<a href="https://en.wikipedia.org/wiki/Docker_(software)"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="35" height="35"/></a>
+<a href="https://en.wikipedia.org/wiki/Terraform_(software)"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="35" height="35"/></a>
+<a href="https://en.wikipedia.org/wiki/Ansible_(software)"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="35" height="35"/></a>
+<a href="https://en.wikipedia.org/wiki/Amazon_Web_Services"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="35" height="35"/></a>
+<a href="https://en.wikipedia.org/wiki/Microsoft_Azure"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="35" height="35"/></a>
+<a href="https://en.wikipedia.org/wiki/Google_Cloud_Platform"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="35" height="35"/></a>
+<a href="https://en.wikipedia.org/wiki/Firebase"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="35" height="35"/></a>
+<a href="https://en.wikipedia.org/wiki/ServiceNow"><img src="https://www.vectorlogo.zone/logos/servicenow/servicenow-ar21.svg" alt="ServiceNow" width="70" height="35"/></a>
 </p>
 
 </br></br>
@@ -64,14 +64,14 @@ Fluent in English and Russian, learning Dutch and Chinese
 **Actively learning:**
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="35" height="35" />
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="35" height="35" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="35" height="35" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg" alt="Deno" width="35" height="35" />
-<img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" alt="Istio" width="35" height="35" />
-<img src="https://www.vectorlogo.zone/logos/puppet/puppet-icon.svg" alt="Puppet" width="35" height="35" />
-<img src="https://www.vectorlogo.zone/logos/chefio/chefio-icon.svg" alt="Chef" width="35" height="35" />
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="35" height="35" />
+<a href="https://en.wikipedia.org/wiki/Go_(programming_language)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="35" height="35" /></a>
+<a href="https://en.wikipedia.org/wiki/Kubernetes"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="35" height="35" /></a>
+<a href="https://en.wikipedia.org/wiki/GraphQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="35" height="35" /></a>
+<a href="https://en.wikipedia.org/wiki/Deno_(software)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg" alt="Deno" width="35" height="35" /></a>
+<a href="https://istio.io/latest/about/service-mesh/"><img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" alt="Istio" width="35" height="35" /></a>
+<a href="https://en.wikipedia.org/wiki/Puppet_(software)"><img src="https://www.vectorlogo.zone/logos/puppet/puppet-icon.svg" alt="Puppet" width="35" height="35" /></a>
+<a href="https://en.wikipedia.org/wiki/Chef_(software)"><img src="https://www.vectorlogo.zone/logos/chefio/chefio-icon.svg" alt="Chef" width="35" height="35" /></a>
+<a href="https://en.wikipedia.org/wiki/Jenkins_(software)"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="35" height="35" /></a>
 </p>
 
 </br></br>
