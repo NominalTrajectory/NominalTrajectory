@@ -109,7 +109,7 @@ Fluent in English and Russian, learning Dutch and Chinese
 
 </br>
 
-[<img src="https://nasa-apod-badge.herokuapp.com" alt="NASA's Astronomy Picture of the Day" width="400" />](https://apod.nasa.gov/apod/astropix.html)
+[<img src="https://main-bvxea6i-qok2msoo3yjke.de-2.platformsh.site" alt="NASA's Astronomy Picture of the Day" width="400" />](https://apod.nasa.gov/apod/astropix.html)
 
 Check out [this repo](https://github.com/NominalTrajectory/nasa-apod-github-readme) if you want to have the same card on your profile ;)
 
