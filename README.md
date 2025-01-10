@@ -1,115 +1,183 @@
-# Hi / Привет / Hoi / 你好 everyone!
-<p>
-<img src="https://c.tenor.com/7jxBmMxOixgAAAAC/altered-carbon-pink.gif" width="120" height="60"/>
-<img src="assets/Secundo.gif" width="60" height="60"/>
-<img src="https://c.tenor.com/kpZ45ilBpNMAAAAC/zdj11.gif" width="120" height="60"/>
-<img src="assets/Divergent.gif" width="60" height="60"/>
-<img src="https://c.tenor.com/8swF6PtOPfgAAAAC/scan-altered-carbon.gif" width="120" height="60"/>
-</p>
+<div style="
+  background-color: black;
+  font-family: 'Courier New', Courier, monospace;
+  color: #dddddd;
+  padding: 20px;
+  border-radius: 5px;
+  line-height: 1.6;
+">
 
-I'm Ivan, an infrastructure/cloud engineer and software developer in my final year of bachelor's study, currently based in the Netherlands. Eager self-learner inspired by emerging tech and sci-fi stuff 😃 
+  <style>
+    .prompt  { color: #00ffff; }
+    .cwd     { color: #ffffff; }
+    .command { color: #ff5555; }
+    .output  { color: #dddddd; margin-left: 20px; }
+  </style>
 
-</br>
+  <div style="margin-bottom: 1em;">
+    <span class="prompt">ivxn@github</span><span class="cwd">:~/profile</span>$ 
+    <span class="command">whoami</span>
+    <div class="output">
+      <strong>Ivan</strong>, a <em>Software &amp; Cloud Engineer</em> from the Netherlands.<br/>
+      I like solving complex and meaningful problems with simple lines of code.<br/>
+      Also enjoy building scalable and resilient platforms that prioritize developer experience.<br/>
+      <em>Kubernetes nerd.</em>
+    </div>
+  </div>
 
-> ✨ "Today's science fiction - tomorrow's reality." ✨ 
+  <hr style="border: 1px solid #ff5555;"/>
 
-</br>
+  <div style="margin-bottom: 1em;">
+    <span class="prompt">ivxn@github</span><span class="cwd">:~/profile</span>$ 
+    <span class="command">grep -A 3 "Greetings" greetings.log</span>
+    <div class="output">
+      <strong>Hi / Привет / Hoi / 你好</strong>
+      <p>
+        <img src="https://c.tenor.com/7jxBmMxOixgAAAAC/altered-carbon-pink.gif" width="120" height="60" />
+        <img src="assets/Secundo.gif" width="60" height="60"/>
+        <img src="https://c.tenor.com/kpZ45ilBpNMAAAAC/zdj11.gif" width="120" height="60"/>
+        <img src="assets/Divergent.gif" width="60" height="60"/>
+        <img src="https://c.tenor.com/8swF6PtOPfgAAAAC/scan-altered-carbon.gif" width="120" height="60"/>
+      </p>
+      Interested in exploring AI (it is what it is, isn't it?), contributing to Cloud Native technologies,<br/>
+      modernizing legacy systems, and learning new things. I speak English and Russian fluently;<br/>
+      learning Chinese and Dutch.
+    </div>
+  </div>
 
-**Areas of interest:** Back-end Development, Cloud Engineering, Infrastructure Architecture, DevOps, IT Service Management, Machine Learning
+  <hr style="border: 1px solid #ff5555;"/>
 
-Fluent in English and Russian, learning Dutch and Chinese
+  <div style="margin-bottom: 1em;">
+    <span class="prompt">ivxn@github</span><span class="cwd">:~/profile</span>$ 
+    <span class="command">tail -n 1 quotes.log</span>
+    <div class="output">
+      ✨ "Secundo, check the computer, we might need it." ✨
+    </div>
+  </div>
 
-### 🎧 **I listen to music while coding. Now playing on Spotify:**
+  <hr style="border: 1px solid #ff5555;"/>
 
-[<img src="https://spotify-now-playing-six-lime.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="500" />](https://open.spotify.com/user/czipey128acsih796rc692hl9)
+  <div style="margin-bottom: 1em;">
+    <span class="prompt">ivxn@github</span><span class="cwd">:~/profile</span>$ 
+    <span class="command">curl -s https://spotify-now-playing-six-lime.vercel.app/api/spotify-playing</span>
+    <div class="output">
+      <strong>🎧 Do you code with music?</strong> Now playing on Spotify:<br/><br/>
+      <a href="https://open.spotify.com/user/czipey128acsih796rc692hl9" target="_blank">
+        <img src="https://spotify-now-playing-six-lime.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="500" />
+      </a>
+    </div>
+  </div>
 
+  <hr style="border: 1px solid #ff5555;"/>
 
-</br>
+  <div style="margin-bottom: 1em;">
+    <span class="prompt">ivxn@github</span><span class="cwd">:~/profile</span>$ 
+    <span class="command">ls -lah ./code/</span>
+    <div class="output">
+      <strong>My Tech Stack - Code:</strong><br/><br/>
+      <p>
+        <a href="https://go.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="35" height="35" /></a>
+        <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35" height="35"/></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35"/></a>
+        <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="35" height="35"/></a>
+        <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="35" height="35"/></a>
+        <a href="https://angular.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="35" height="35" /></a>
+        <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue" width="35" height="35"/></a>
+        <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="35" height="35"/></a>
+      </p>
+    </div>
+  </div>
 
-### 💜 **My tech stack**
----
-</br>
+  <hr style="border: 1px solid #ff5555;"/>
 
-**Code:**
+  <div style="margin-bottom: 1em;">
+    <span class="prompt">ivxn@github</span><span class="cwd">:~/profile</span>$ 
+    <span class="command">ls -lah ./devops/</span>
+    <div class="output">
+      <strong>My Tech Stack - Infra &amp; DevOps:</strong><br/><br/>
+      <p>
+        <a href="https://kubernetes.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="35" height="35" /></a>
+        <a href="https://aws.amazon.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="35" height="35"/></a>
+        <a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="35" height="35"/></a>
+        <a href="https://www.linode.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linode/linode-icon.svg" alt="Linode" width="35" height="35"/></a>
+        <a href="https://www.digitalocean.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="DigitalOcean" width="35" height="35"/></a>
+        <a href="https://www.scaleway.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/scaleway/scaleway-icon.svg" alt="Scaleway" width="35" height="35"/></a>
+        <a href="https://www.ovhcloud.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/1698434?s=200&v=4" alt="OVH Cloud" width="35" height="35"/></a>
+        <a href="https://www.terraform.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="35" height="35"/></a>
+        <a href="https://www.pulumi.com/" target="_blank"><img src="https://www.pulumi.com/logos/brand/avatar-on-white.svg" alt="Pulumi" width="35" height="35"/></a>
+        <a href="https://argo-cd.readthedocs.io/" target="_blank"><img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" alt="ArgoCD" width="35" height="35"/></a>
+        <a href="https://helm.sh/" target="_blank"><img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm" width="35" height="35"/></a>
+        <a href="https://github.com/features/actions" target="_blank"><img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" alt="GitHub Actions" width="35" height="35"/></a>
+        <a href="https://www.jenkins.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="35" height="35"/></a>
+        <a href="https://www.docker.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="35" height="35"/></a>
+        <a href="https://www.rabbitmq.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="35" height="35"/></a>
+        <a href="https://nats.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/natsio/natsio-icon.svg" alt="NATS" width="35" height="35"/></a>
+        <a href="https://www.cockroachlabs.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/cockroachlabs/cockroachlabs-icon.svg" alt="CockroachDB" width="35" height="35"/></a>
+        <a href="https://www.postgresql.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="35" height="35"/></a>
+        <a href="https://redis.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="35" height="35"/></a>
+      </p>
+    </div>
+  </div>
 
-<p>
-<a href="https://en.wikipedia.org/wiki/Node.js" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="35" height="35"/></a>
-<a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="35" height="35"/></a>
-<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="35" height="35" /></a>
-<a href="https://en.wikipedia.org/wiki/TypeScript" target="_blank"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="35" height="35" /></a>
-<a href="https://en.wikipedia.org/wiki/Go_(programming_language)" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="35" height="35" /></a>
-<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/bash/bash-original.svg" alt="Bash" width="35" height="35" /></a>
-<a href="https://en.wikipedia.org/wiki/Angular_(web_framework)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="35" height="35" /></a>
-<a href="https://en.wikipedia.org/wiki/Electron_(software_framework)" target="_blank"><img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" alt="Electron" width="35" height="35" /></a>
-</p>
+  <hr style="border: 1px solid #ff5555;"/>
 
-</br></br>
+  <div style="margin-bottom: 1em;">
+    <span class="prompt">ivxn@github</span><span class="cwd">:~/profile</span>$ 
+    <span class="command">grep "AI" research.log</span>
+    <div class="output">
+      <strong>Actively exploring:</strong><br/><br/>
+      <p>
+        <a href="https://openai.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="OpenAI" width="35" height="35"/></a>
+        <a href="https://backstage.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/72526453?s=200&v=4" alt="Backstage" width="35" height="35"/></a>
+        <a href="https://temporal.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/56493103?s=200&v=4" alt="Temporal" width="35" height="35"/></a>
+      </p>
+    </div>
+  </div>
 
-**Infra & DevOps:**
+  <hr style="border: 1px solid #ff5555;"/>
 
-<p>
-<a href="https://en.wikipedia.org/wiki/Linux" target="_blank"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="35" height="35"/></a>
-<a href="https://en.wikipedia.org/wiki/Docker_(software)" target="_blank"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="35" height="35"/></a>
-<a href="https://en.wikipedia.org/wiki/Terraform_(software)" target="_blank"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="35" height="35"/></a>
-<a href="https://en.wikipedia.org/wiki/Ansible_(software)" target="_blank"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="35" height="35"/></a>
-<a href="https://en.wikipedia.org/wiki/Amazon_Web_Services" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="35" height="35"/></a>
-<a href="https://en.wikipedia.org/wiki/Microsoft_Azure" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="35" height="35"/></a>
-<a href="https://en.wikipedia.org/wiki/Google_Cloud_Platform" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="35" height="35"/></a>
-<a href="https://en.wikipedia.org/wiki/Firebase" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="35" height="35"/></a>
-<a href="https://en.wikipedia.org/wiki/ServiceNow" target="_blank"><img src="https://www.vectorlogo.zone/logos/servicenow/servicenow-ar21.svg" alt="ServiceNow" width="70" height="35"/></a>
-</p>
+  <div style="margin-bottom: 1em;">
+    <span class="prompt">ivxn@github</span><span class="cwd">:~/profile</span>$ 
+    <span class="command">less -N bucket_list.txt</span>
+    <div class="output">
+      <strong>😵 Before I die I want to:</strong><br/><br/>
+      - 🌟 Build something truly impactful<br/>
+      - 🗺️ Travel around the world<br/>
+      - 👨‍🚀 Go on a suborbital flight<br/>
+      - 🧠 Witness the emergence of an artificial human brain or true AGI<br/>
+    </div>
+  </div>
 
-</br></br>
+  <hr style="border: 1px solid #ff5555;"/>
 
-**Actively learning:**
+  <div style="margin-bottom: 1em;">
+    <span class="prompt">ivxn@github</span><span class="cwd">:~/profile</span>$ 
+    <span class="command">./connect.sh</span>
+    <div class="output">
+      <strong>Let's connect:</strong><br/><br/>
+      <a href="mailto:ivan@dualstacks.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30" height="30"/></a>
+      <a href="https://linkedin.com/in/ivxn-sh"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30" height="30"/></a>
+      <a href="https://x.com/ivxn_sh"><img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" width="30" height="30"/></a>
+      <a href="https://medium.com/@ivxn-sh"><img src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" width="30" height="30"/></a>
+    </div>
+  </div>
 
-<p>
-<a href="https://en.wikipedia.org/wiki/Go_(programming_language)" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="35" height="35" /></a>
-<a href="https://en.wikipedia.org/wiki/Kubernetes" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="35" height="35" /></a>
-<a href="https://en.wikipedia.org/wiki/GraphQL" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="35" height="35" /></a>
-<a href="https://en.wikipedia.org/wiki/Deno_(software)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg" alt="Deno" width="35" height="35" /></a>
-<a href="https://istio.io/latest/about/service-mesh/" target="_blank"><img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" alt="Istio" width="35" height="35" /></a>
-<a href="https://en.wikipedia.org/wiki/Puppet_(software)" target="_blank"><img src="https://www.vectorlogo.zone/logos/puppet/puppet-icon.svg" alt="Puppet" width="35" height="35" /></a>
-<a href="https://en.wikipedia.org/wiki/Chef_(software)" target="_blank"><img src="https://www.vectorlogo.zone/logos/chefio/chefio-icon.svg" alt="Chef" width="35" height="35" /></a>
-<a href="https://en.wikipedia.org/wiki/Jenkins_(software)" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="35" height="35" /></a>
-</p>
+  <hr style="border: 1px solid #ff5555;"/>
 
-</br></br>
+  <div style="margin-bottom: 1em;">
+    <span class="prompt">ivxn@github</span><span class="cwd">:~/profile</span>$ 
+    <span class="command">watch -n 1 cat /var/log/visitors_count.log</span>
+    <div class="output">
+      <strong>👀 count</strong><br/>
+      <img src="https://profile-counter.glitch.me/NominalTrajectory/count.svg" alt="Visitor Count" />
+    </div>
+  </div>
 
-### 🚧 **Current projects**
----
+  <hr style="border: 1px solid #ff5555;"/>
 
-- **Magic Word Chains** *(WIP)* Check out my <a href="https://play.google.com/store/apps/details?id=com.NTGames.WordChains" target="_blank">***Android***</a> / <a href="https://apps.apple.com/us/app/magic-word-chains/id1559186496" target="_blank">***iOS***</a> game "Magic Word Chains" - a fairy-tale styled rework of the classic word ladder game. I'm building this game using Unity.
-- ... 
+  <div>
+    <span class="prompt">ivxn@github</span><span class="cwd">:~/profile</span>$ 
+    <span class="command">exit</span>
+  </div>
 
-</br>
-
-### 😵 **Before I die I want to...**
----
-- 🗽 Study and live in NYC
-- 🌟 Build something hugely impactful
-- 🗺️ Travel around the world
-- 👨‍🚀 Go on a suborbital flight
-- 🧠 Witness the emergence of an artificial human brain 
-- ⌨️ Memorize how to center a div 😂 
-
-</br>
-
-### **Let's get to know each other!**
----
-
-<a href = "mailto:ivan.shishkalov.nt@gmail.com"><img src="assets/gmail.svg" width="30" height="30"/></a>
-[<img src="assets/linkedin.svg" width="30" height="30"/>](https://www.linkedin.com/in/ivanshishkalov)
-[<img src="assets/instagram.svg" width="30" height="30"/>](https://www.instagram.com/4amny)
-<img src="assets/discord.svg" width="30" height="30"/> > nominal_trajectory#4906
-
-👀 count
-
-![Visitor Count](https://profile-counter.glitch.me/NominalTrajectory/count.svg)
-
-</br>
-
-[<img src="https://nasa-apod.onlivio.com" alt="NASA's Astronomy Picture of the Day" width="400" />](https://apod.nasa.gov/apod/astropix.html)
-
-Check out [this repo](https://github.com/NominalTrajectory/nasa-apod-github-readme) if you want to have the same card on your profile ;)
-
+</div>
