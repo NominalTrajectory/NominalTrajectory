@@ -1,7 +1,6 @@
-# Terminal-Themed Profile (GitHub-Friendly)
-
 ```bash
 ivxn@github:~/profile$ whoami
+
 Ivan, a Software & Cloud Engineer from the Netherlands.
 I like solving complex and meaningful problems with simple lines of code.
 Also enjoy building scalable and resilient platforms that prioritize developer experience.
@@ -12,6 +11,7 @@ Kubernetes nerd.
 
 ```bash
 ivxn@github:~/profile$ grep -A 3 "Greetings" greetings.log
+
 Hi / Привет / Hoi / 你好
 ```
 
@@ -25,14 +25,17 @@ Hi / Привет / Hoi / 你好
 
 <br>
 
+```
 Interested in exploring AI (it is what it is, isn't it?), contributing to Cloud Native technologies,  
 modernizing legacy systems, and learning new things. I speak English and Russian fluently;  
 learning Chinese and Dutch.
+```
 
 ---
 
 ```bash
 ivxn@github:~/profile$ tail -n 1 quotes.log
+
 ✨ "Secundo, check the computer, we might need it." ✨
 ```
 
@@ -40,6 +43,7 @@ ivxn@github:~/profile$ tail -n 1 quotes.log
 
 ```bash
 ivxn@github:~/profile$ curl -s https://spotify-now-playing-six-lime.vercel.app/api/spotify-playing
+
 🎧 Do you code with music? Now playing on Spotify:
 ```
 [![Spotify Now Playing](https://spotify-now-playing-six-lime.vercel.app/api/spotify-playing)](https://open.spotify.com/user/czipey128acsih796rc692hl9)
@@ -48,6 +52,7 @@ ivxn@github:~/profile$ curl -s https://spotify-now-playing-six-lime.vercel.app/a
 
 ```bash
 ivxn@github:~/profile$ ls -lah ./code/
+
 My Tech Stack - Code:
 ```
 <div style="display: flex; gap: 10px; align-items: center;">
@@ -65,6 +70,7 @@ My Tech Stack - Code:
 
 ```bash
 ivxn@github:~/profile$ ls -lah ./devops/
+
 My Tech Stack - Infra & DevOps:
 ```
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
@@ -93,6 +99,7 @@ My Tech Stack - Infra & DevOps:
 
 ```bash
 ivxn@github:~/profile$ grep "AI" research.log
+
 Actively exploring:
 ```
 <div style="display: flex; gap: 10px; align-items: center;">
@@ -105,6 +112,7 @@ Actively exploring:
 
 ```bash
 ivxn@github:~/profile$ less -N bucket_list.txt
+
 😵 Before I die I want to:
 - 🌟 Build something truly impactful
 - 🗺️ Travel around the world
@@ -116,6 +124,7 @@ ivxn@github:~/profile$ less -N bucket_list.txt
 
 ```bash
 ivxn@github:~/profile$ ./connect.sh
+
 Let's connect:
 ```
 <div style="display: flex; gap: 10px; align-items: center;">
@@ -129,6 +138,7 @@ Let's connect:
 
 ```bash
 ivxn@github:~/profile$ watch -n 1 cat /var/log/visitors_count.log
+
 👀 count
 ```
 ![Visitor Count](https://profile-counter.glitch.me/NominalTrajectory/count.svg)
