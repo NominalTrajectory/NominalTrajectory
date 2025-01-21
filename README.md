@@ -128,7 +128,7 @@ ivxn@github:~/profile$ ./connect.sh
 Let's connect:
 ```
 
-<a href="https://app.usemotion.com/meet/ivxn/dualstacks">
+<a href="https://app.usemotion.com/meet/ivxn/dualstacks" target="_blank">
     <img src="assets/meeting-banner.svg" alt="Schedule a meeting" width="100%"/>
 </a>
 
