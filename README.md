@@ -127,6 +127,13 @@ ivxn@github:~/profile$ ./connect.sh
 
 Let's connect:
 ```
+
+<a href="https://app.usemotion.com/meet/ivxn/dualstacks" target="_blank">
+    <img src="assets/meeting-banner.svg" alt="Schedule a meeting" width="100%"/>
+</a>
+
+<br/>
+
 <div style="display: flex; gap: 10px; align-items: center;">
     <a href="mailto:ivan@dualstacks.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="35"/></a>
     <a href="https://linkedin.com/in/ivxn-sh"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="35"/></a>
