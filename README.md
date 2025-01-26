@@ -135,10 +135,11 @@ Let's connect:
 <br/>
 
 <div style="display: flex; gap: 10px; align-items: center;">
-    <a href="mailto:ivan@dualstacks.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="35"/></a>
-    <a href="https://linkedin.com/in/ivxn-sh"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="35"/></a>
-    <a href="https://x.com/ivxn_sh"><img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="X (Twitter)" height="35"/></a>
-    <a href="https://medium.com/@ivxn-sh"><img src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" alt="Medium" height="35"/></a>
+    <a href="mailto:ivan@dualstacks.com"><img src="assets/gmail.svg" alt="Email" height="35"/></a>
+    <a href="https://linkedin.com/in/ivxn-sh"><img src="assets/linkedin.svg" alt="LinkedIn" height="35"/></a>
+    <a href="https://x.com/ivxn_sh"><img src="assets/x.svg" alt="X (Twitter)" height="33"/></a>
+    <a href="https://medium.com/@ivxn.sh"><img src="assets/medium.svg" alt="Medium" height="30"/></a>
+    <a href="https://app.daily.dev/ivxn/posts"><img src="assets/dailydev.svg" alt="daily.dev" height="25"/></a>
 </div>
 
 ---
