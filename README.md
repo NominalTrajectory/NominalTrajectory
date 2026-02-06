@@ -1,7 +1,7 @@
 ```bash
 ivxn@github:~/profile$ whoami
 
-Ivan, a Software & Cloud Engineer from the Netherlands.
+Iven, a Software & Cloud Engineer from the Netherlands.
 I like solving complex and meaningful problems with simple lines of code.
 Also enjoy building scalable and resilient platforms that prioritize developer experience.
 Kubernetes nerd.
@@ -135,7 +135,7 @@ Let's connect:
 <br/>
 
 <div style="display: flex; gap: 10px; align-items: center;">
-    <a href="mailto:ivan@dualstacks.com"><img src="assets/gmail.svg" alt="Email" height="35"/></a>
+    <a href="mailto:i@ivxn.sh"><img src="assets/gmail.svg" alt="Email" height="35"/></a>
     <a href="https://linkedin.com/in/ivxn-sh"><img src="assets/linkedin.svg" alt="LinkedIn" height="35"/></a>
     <a href="https://x.com/ivxn_sh"><img src="assets/x.svg" alt="X (Twitter)" height="33"/></a>
     <a href="https://medium.com/@ivxn.sh"><img src="assets/medium.svg" alt="Medium" height="30"/></a>
@@ -156,3 +156,4 @@ ivxn@github:~/profile$ watch -n 1 cat /var/log/visitors_count.log
 ```bash
 ivxn@github:~/profile$ exit
 ```
+
