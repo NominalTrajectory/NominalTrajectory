@@ -26,9 +26,15 @@ Hi / Привет / Hoi / 你好
 <br>
 
 ```
-Interested in exploring AI (it is what it is, isn't it?), contributing to Cloud Native technologies,  
-modernizing legacy systems, and learning new things. I speak English and Russian fluently;  
-learning Chinese and Dutch.
+My current work is at the intersection of infrastructure, developer experience, and AI.
+I build durable AI agents that actually remember you and learn over time, along with
+developer-centric platforms and tooling. I like making AI less repulsive and more genuinely
+useful - meeting people where they are today, not where the hype wants them to be.
+
+I like to hack things together, research, write, and learn new things - especially anything
+at the edge of computer science and human behavior/biology.
+
+I speak English and Russian fluently; learning Chinese and Dutch.
 ```
 
 ---
@@ -128,28 +134,11 @@ ivxn@github:~/profile$ ./connect.sh
 Let's connect:
 ```
 
-<a href="https://app.usemotion.com/meet/ivxn/dualstacks" target="_blank">
-    <img src="assets/meeting-banner.svg" alt="Schedule a meeting" width="100%"/>
-</a>
-
-<br/>
-
 <div style="display: flex; gap: 10px; align-items: center;">
     <a href="mailto:i@ivxn.sh"><img src="assets/gmail.svg" alt="Email" height="35"/></a>
-    <a href="https://linkedin.com/in/ivxn-sh"><img src="assets/linkedin.svg" alt="LinkedIn" height="35"/></a>
     <a href="https://x.com/ivxn_sh"><img src="assets/x.svg" alt="X (Twitter)" height="33"/></a>
     <a href="https://medium.com/@ivxn.sh"><img src="assets/medium.svg" alt="Medium" height="30"/></a>
-    <a href="https://app.daily.dev/ivxn/posts"><img src="assets/dailydev.svg" alt="daily.dev" height="25"/></a>
 </div>
-
----
-
-```bash
-ivxn@github:~/profile$ watch -n 1 cat /var/log/visitors_count.log
-
-👀 count
-```
-![Visitor Count](https://profile-counter.glitch.me/NominalTrajectory/count.svg)
 
 ---
 
